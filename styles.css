@@ -1,0 +1,146 @@
+body {
+    background-color: #00ff5f;
+    font-family: "Playfair Display", serif;
+}
+
+
+img{
+    border-radius: 100px;
+    border: double 10px green;
+    align-content: center;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+h1 {
+    font-family: "Bebas Neue", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: underline solid green;
+    text-align: center;
+}
+
+    
+
+h2 {
+    font-family: "Bebas Neue", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: underline solid green;
+    text-align: center;
+}
+
+
+
+img{
+    border-radius: 100px;
+    border: double 10px green;
+    align-content: center;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 360px;
+    height: 360px;
+    object-fit: cover;
+    box-shadow: 0px 10px 25px black;
+}
+
+.hover-pic:hover {
+    content: url("martinez2.jpeg");
+}
+
+
+
+p{
+    text-align:center
+}
+
+.link-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.html-switch-btn {
+    display: inline-block;
+    background-color: #006400;
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.html-switch-btn:hover {
+    background-color: white;
+    color: #006400;
+}
+ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+  text-align: center;
+}
+.courtois{
+    float: left;
+}
+.donnaruma{
+    float: right;
+}
+.goalkeeper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.c {
+  color: black;
+}
+
+.r {
+  color: black;
+}
+
+.d {
+  color: black;
+}
+.page-nav {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin: 20px 0;
+}
+
+.nav-btn {
+  display: inline-block;
+  text-decoration: none;
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 2px solid white;
+}
+
+.nav-btn:hover {
+  background-color: #e0e0e0;
+}
+.scroll{
+    
+}
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
+
+
+
